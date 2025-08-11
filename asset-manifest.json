@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/VinciWong/2025RPG.git/static/js/main.a56d51df.js",
-    "index.html": "/VinciWong/2025RPG.git/index.html",
-    "main.a56d51df.js.map": "/VinciWong/2025RPG.git/static/js/main.a56d51df.js.map"
+    "main.js": "./static/js/main.a56d51df.js",
+    "index.html": "./index.html",
+    "main.a56d51df.js.map": "./static/js/main.a56d51df.js.map"
   },
   "entrypoints": [
     "static/js/main.a56d51df.js"
