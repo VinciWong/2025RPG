@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+}
+
+
+.reggae-one-regular {
+  font-family: "Reggae One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
